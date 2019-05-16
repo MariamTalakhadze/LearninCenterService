@@ -1,0 +1,65 @@
+E:\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.pdb
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csprojResolveAssemblyReference.cache
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.frmMain.resources
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Properties.Resources.resources
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.GenerateResource.Cache
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.exe
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.pdb
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.pdb
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csprojResolveAssemblyReference.cache
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.frmMain.resources
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Properties.Resources.resources
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.GenerateResource.Cache
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.exe
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.pdb
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.pdb
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csprojAssemblyReference.cache
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.frmMain.resources
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Properties.Resources.resources
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.GenerateResource.cache
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.CoreCompileInputs.cache
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.exe
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.pdb
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.pdb
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csprojAssemblyReference.cache
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.frmMain.resources
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Forms.AddOrEditSubjectForm.resources
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Forms.CodeForm.resources
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Properties.Resources.resources
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.GenerateResource.cache
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.CoreCompileInputs.cache
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.exe
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.pdb
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.pdb
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csprojAssemblyReference.cache
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.frmMain.resources
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Forms.AddOrEditSubjectForm.resources
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Forms.CodeForm.resources
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Properties.Resources.resources
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.GenerateResource.cache
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.CoreCompileInputs.cache
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.exe
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.pdb
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe.config
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.exe
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\bin\Debug\WinFormsClientApp.pdb
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csprojResolveAssemblyReference.cache
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.frmMain.resources
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Forms.AddOrEditSubjectForm.resources
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Forms.CodeForm.resources
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.Properties.Resources.resources
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.GenerateResource.Cache
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.csproj.CoreCompileInputs.cache
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.exe
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\WinFormsClientApp\obj\Debug\WinFormsClientApp.pdb

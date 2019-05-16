@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SubjectDTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>0</ID>
+  <Name>Biology</Name>
+  <Description>Biology</Description>
+  <Code>55555</Code>
+  <Credits>3</Credits>
+  <Hours>75</Hours>
+  <IsActive>true</IsActive>
+</SubjectDTO>

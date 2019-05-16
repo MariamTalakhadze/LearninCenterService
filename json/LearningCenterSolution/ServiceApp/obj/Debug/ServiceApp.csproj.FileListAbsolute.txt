@@ -1,0 +1,139 @@
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\ApplicationInsights.config
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll.config
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\ServiceApp.pdb
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\EntityFramework.xml
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.xml
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.pdb
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\EntityFramework.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\lab322_student03\Desktop\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\ApplicationInsights.config
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll.config
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\ServiceApp.pdb
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\EntityFramework.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\EntityFramework.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.dll
+C:\Users\lab322.lecturer\Desktop\New folder\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.pdb
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ApplicationInsights.config
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll.config
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ServiceApp.pdb
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.xml
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csprojAssemblyReference.cache
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.dll
+D:\GAU\MATERIALS Y3S2\WCF, WEB API\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.pdb
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ApplicationInsights.config
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll.config
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ServiceApp.pdb
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.xml
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csprojAssemblyReference.cache
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.dll
+D:\GAU\3_2\WCF\New folder\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.pdb
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ApplicationInsights.config
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll.config
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\ServiceApp.pdb
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.dll
+C:\Users\nmest\Downloads\LearningCenterSolution\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.pdb
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ApplicationInsights.config
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll.config
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ServiceApp.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\ServiceApp.pdb
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\EntityFramework.SqlServer.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.Web.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.dll
+C:\Users\mariam\Desktop\Learning Center\json\LearningCenterSolution\ServiceApp\obj\Debug\ServiceApp.pdb

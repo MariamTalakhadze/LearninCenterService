@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SubjectDTO>
+  <ID>0</ID>
+  <Name>Biology</Name>
+  <Description>Biology</Description>
+  <Code>55555</Code>
+  <Credits>3</Credits>
+  <Hours>75</Hours>
+  <IsActive>true</IsActive>
+</SubjectDTO>
